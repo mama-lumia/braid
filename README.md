@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add horizontal Mosaic3 augmentation (#6898)
