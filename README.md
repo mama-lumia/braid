@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
