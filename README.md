@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
