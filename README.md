@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Update format.yml to pull_request_target (#7460)
