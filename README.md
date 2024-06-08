@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Avoid creating -hub dir without processing images (#8334)
